@@ -1,0 +1,13 @@
+<rozklad>
+	<miejscowosc>Poznań</miejscowosc>
+	<linia nazwa="Gorki">
+		<numer>5</numer>
+		<poczatek>Górczyn</poczatek>
+        <koniec>Miłostowo</koniec>
+    </linia>
+    <linia nazwa="Petla">
+		<numer>105</numer>
+		<poczatek>Rondo Rataje</poczatek>
+		<koniec>Piątkowo</koniec>
+	</linia>
+</rozklad>
